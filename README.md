@@ -8,8 +8,8 @@
 - 📚 I’ve learned **Python, Django, OOPs, HTML, CSS, JavaScript, Bootstrap, and SQL**
 - 🧠 I’m passionate about **Web Development and Voice Assistants**
 - 💬 Ask me about **HTML, CSS, JS, Python, Django, PHP, MySQL, and more**
-- 📫 Reach me at **msm875990@gmail.com**  
-- 💼 All my projects are available on my [GitHub Profile](https://github.com/madhugowda-1819)
+- 📫 Reach me at **msm875990@gmail.com**
+  
 
 ---
 
