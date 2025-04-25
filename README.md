@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 👨‍🎓 I’m currently undergoing training in **Full Stack Web Development**
 - 📚 I’ve learned **Python, Django, OOPs, HTML, CSS, JavaScript, Bootstrap, and SQL**
-- 🧠 I’m passionate about **Web Development and Voice Assistants**
+- 🧠 I’m passionate about **Web Developer**
 - 💬 Ask me about **HTML, CSS, JS, Python, Django, PHP, MySQL, and more**
 - 📫 Reach me at **msm875990@gmail.com**
   
