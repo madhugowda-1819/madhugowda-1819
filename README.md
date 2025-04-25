@@ -15,4 +15,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhugowda-1819&show_icons=true&locale=en" alt="madhugowda-1819" /></p>
+
