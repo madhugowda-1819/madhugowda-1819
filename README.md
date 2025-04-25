@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm MADHU K S</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhugowda-1819&label=Profile%20views&color=0e75b6&style=flat" alt="madhugowda-1819" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhugowda-1819" alt="madhugowda-1819" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/madhugowda-1819](https://github.com/madhugowda-1819)
 
